@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Prabhatyadav92/DSA/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/Prabhatyadav92/DSA/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
