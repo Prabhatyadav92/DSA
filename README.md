@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prabhatyadav92/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prabhatyadav92/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prabhatyadav92/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0835-image-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhatyadav92/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prabhatyadav92/DSA/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
