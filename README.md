@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prabhatyadav92/DSA/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/Prabhatyadav92/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
@@ -101,9 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prabhatyadav92/DSA/tree/master/0062-unique-paths) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prabhatyadav92/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prabhatyadav92/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prabhatyadav92/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
