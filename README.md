@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prabhatyadav92/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Prabhatyadav92/DSA/tree/master/0242-valid-anagram) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prabhatyadav92/DSA/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
