@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prabhatyadav92/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Prabhatyadav92/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Prabhatyadav92/DSA/tree/master/0242-valid-anagram) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prabhatyadav92/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prabhatyadav92/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prabhatyadav92/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
