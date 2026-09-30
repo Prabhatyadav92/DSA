@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Prabhatyadav92/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prabhatyadav92/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Prabhatyadav92/DSA/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/Prabhatyadav92/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Prabhatyadav92/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhatyadav92/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Prabhatyadav92/DSA/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prabhatyadav92/DSA/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prabhatyadav92/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
