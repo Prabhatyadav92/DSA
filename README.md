@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Prabhatyadav92/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Prabhatyadav92/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Prabhatyadav92/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Prabhatyadav92/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0836-rectangle-overlap) |
