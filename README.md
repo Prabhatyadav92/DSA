@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prabhatyadav92/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prabhatyadav92/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prabhatyadav92/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Prabhatyadav92/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prabhatyadav92/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Prabhatyadav92/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0835-image-overlap) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prabhatyadav92/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Prabhatyadav92/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prabhatyadav92/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prabhatyadav92/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prabhatyadav92/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prabhatyadav92/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prabhatyadav92/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prabhatyadav92/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prabhatyadav92/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prabhatyadav92/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prabhatyadav92/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prabhatyadav92/DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Prabhatyadav92/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Prabhatyadav92/DSA/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Prabhatyadav92/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Prabhatyadav92/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Prabhatyadav92/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhatyadav92/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prabhatyadav92/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Prabhatyadav92/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Prabhatyadav92/DSA/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prabhatyadav92/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prabhatyadav92/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -211,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prabhatyadav92/DSA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Prabhatyadav92/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
