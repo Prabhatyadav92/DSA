@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prabhatyadav92/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prabhatyadav92/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prabhatyadav92/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prabhatyadav92/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhatyadav92/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhatyadav92/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prabhatyadav92/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhatyadav92/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
