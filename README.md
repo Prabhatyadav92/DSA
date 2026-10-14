@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Prabhatyadav92/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhatyadav92/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Prabhatyadav92/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Prabhatyadav92/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Prabhatyadav92/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Prabhatyadav92/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prabhatyadav92/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Prabhatyadav92/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prabhatyadav92/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
