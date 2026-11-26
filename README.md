@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prabhatyadav92/DSA/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Prabhatyadav92/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/Prabhatyadav92/DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Prabhatyadav92/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Prabhatyadav92/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhatyadav92/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prabhatyadav92/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Prabhatyadav92/DSA/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Prabhatyadav92/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prabhatyadav92/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/Prabhatyadav92/DSA/tree/master/3813-vowel-consonant-score) |
 ## Stack
